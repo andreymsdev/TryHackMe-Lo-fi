@@ -1,4 +1,4 @@
-# Lo-fi — TryHackMe
+# Lo-fi - TryHackMe
 
 ---
 
